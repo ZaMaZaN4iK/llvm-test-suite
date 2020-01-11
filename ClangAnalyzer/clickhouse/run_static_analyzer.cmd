@@ -1,0 +1,2 @@
+cmake .
+ninja -j13
